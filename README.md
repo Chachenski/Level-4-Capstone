@@ -1,1 +1,1 @@
-Cryptocurrency API web app using React and Axios technology. The API used was CoinGecko's crypto prices by market cap.
+Cryptocurrency Price Tracker created using React, React-Router-DOM and Axios technology. The API used was CoinGecko. Coins were destructured, filtered, mappped and then rendered on screen as a single-page-application.
